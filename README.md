@@ -1,4 +1,5 @@
 # reaction-timer
+for learning purposes
 
 ## Project setup
 ```
